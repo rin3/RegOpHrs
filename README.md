@@ -3,8 +3,7 @@
 Listing the number of QSOs each one half hour for 
 specific groups of countries
 
-rin fukuda, jg1vgx@jarl.com, Feb 2006
-ver 0.02
+rin fukuda, jg1vgx@jarl.com
 
 Requirements
 ------------
