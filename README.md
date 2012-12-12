@@ -12,7 +12,7 @@ You need Perl package to run this script. If you are on Windows, use ActivePerl 
 
 How to Use
 ----------
-1. Perl module Date::Simple is required. Use Perl Package Manager of ActivePerl to install it.
+1. Perl module _Date::Simple_ is required. Use Perl Package Manager of ActivePerl to install it.
 
 2. Files required in the program directory.
     - _Log to be analysed, in Cabrillo format_. QSO data must be listed in chronological order.
